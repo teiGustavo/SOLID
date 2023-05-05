@@ -4,8 +4,8 @@ S.O.L.I.D aplicado ao PHP
 
 ## Tópicos:
 
-- [Single Responsibility Principle](https://github.com/teiGustavo/SOLID/edit/main/README.md) (SRP)
-- Open Closed Principle (OCP)
-- Liskov Substitution Principle (LSP)
-- Interface Segregation Principle (ISP)
-- Dependency Inversion Principle (DIP)
+- [Single Responsibility Principle (SRP)](https://github.com/teiGustavo/SOLID/blob/main/SRP.php) 
+- [Open Closed Principle (OCP)](https://github.com/teiGustavo/SOLID/blob/main/SRP.php)
+- [Liskov Substitution Principle (LSP)](https://github.com/teiGustavo/SOLID/blob/main/SRP.php)
+- [Interface Segregation Principle (ISP)](https://github.com/teiGustavo/SOLID/blob/main/SRP.php) 
+- [Dependency Inversion Principle (DIP)](https://github.com/teiGustavo/SOLID/blob/main/SRP.php) 
